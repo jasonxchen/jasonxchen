@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently focusing on backend web development
 - 👯 I’m looking to collaborate as either a front- or backend developer
 - 💬 Ask me about my experience with machine learning
-- 📫 How to reach me: jasonxchen888@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jasonxchen) | jasonxchen888@gmail.com
 - 😄 Pronouns: He/Him
