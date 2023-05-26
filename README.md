@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my first post-boot camp side project
+- 🔭 I’m currently working on Flavorite, a side project while I apply to jobs
 - 🌱 I’m currently focusing on backend web development
-- 👯 I’m looking to collaborate as either a front- or backend developer
-- 💬 Ask me about my experience with machine learning
+- 💬 Ask me about my experience with my previous contracted work with serverless + AWS
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jasonxchen) | jasonxchen888@gmail.com
 - 😄 Pronouns: He/Him
